@@ -42,8 +42,8 @@ This bookmarklet extracts the title, channel name, and URL of a YouTube video an
 ## Output Format
 The bookmarklet copies the following information to the clipboard:
 
-[Video Title]
-[URL]
+[Video Title]  
+[URL]  
 [Channel Name]
 
 Replace [Video Title], [URL], and [Channel Name] with the actual title, URL, and channel name of the YouTube video respectively.
